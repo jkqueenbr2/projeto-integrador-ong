@@ -9,9 +9,9 @@ Desenvolver uma plataforma para apoiar uma ONG de proteção animal na divulgaç
 **Fora do escopo nesta fase:** pagamentos, integração com clínicas veterinárias, aplicativo móvel nativo e avaliação automática de candidatos.
 
 ## Time e papéis
-- **Product Owner:** [NOME] — prioriza o backlog e valida entregas.
-- **Scrum Master:** [NOME] — facilita cerimônias e remove impedimentos.
-- **Developers:** [NOMES] — implementam, testam e documentam o produto.
+- **Product Owner:** [LUMA] — prioriza o backlog e valida entregas.
+- **Scrum Master:** [LUMA] — facilita cerimônias e remove impedimentos.
+- **Developers:** [LUMA] — implementam, testam e documentam o produto.
 
 > Ajustar os papéis para refletir a composição real do grupo; uma pessoa pode acumular papéis em equipes pequenas.
 
